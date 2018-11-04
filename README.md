@@ -1,1 +1,1 @@
-- ## Website - https://understandingindia.github.io/site
+- ## Website - https://understandingindia.github.io
